@@ -1,0 +1,14 @@
+.box-info {
+    height: 100px;
+    background-color: darkcyan;
+    /* position: relative; */
+}
+
+
+.box-green {
+    background-color: dimgray;
+    width: 40px;
+    height: 40px;
+    left: 90px;
+    position: absolute;
+}
